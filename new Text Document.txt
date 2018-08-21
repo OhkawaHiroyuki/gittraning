@@ -1,3 +1,7 @@
 to day lacky color?
+<<<<<<< HEAD
 red
 green
+farst label
+branch1
+>>>>>>> branch1
